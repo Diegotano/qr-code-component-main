@@ -1,0 +1,45 @@
+.rectangulo{
+    width: 17%;
+    height: 49%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 100%;
+}
+
+img{
+    height: 89%;
+    width: 89%;
+    border-radius: 5%;
+    position: relative;
+    margin-top: 5%;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+}
+
+h1{
+    font-family: Outfit;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 150%;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+p1{
+    font-family: Outfit;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-size: 100%;
+    margin: 5%;
+}
